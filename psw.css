@@ -1,0 +1,189 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: #BAE6FD;
+}
+
+#title{
+    font-family: 'Karla';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 40px;
+
+
+    letter-spacing: -0.025em;
+    position: absolute;
+    width: 354px;
+    height: 80px;
+    left: 52px;
+    top: 118px;
+}
+#difftext{
+    color:#0C4A6E; 
+    
+}
+#motto{
+    position: absolute;
+    width: 372px;
+    height: 28px;
+    left: 52px;
+    top: 208px;
+    margin-top: 25px;
+
+   
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+}
+#genbtn{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 9px 12px 9px 12px;
+    gap: 12px;
+
+    position: absolute;
+    width: 223px;
+    height: 42px;
+    left: 52px;
+    top: 287px;
+
+    background:#0284C7;
+    color: white;
+    font-size: 15px;
+
+
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 6px;
+    border-style: none;
+}
+#genbtn:active{
+    background-color: #0C4A6E;
+   
+}
+i{
+    color: white;
+}
+hr{
+    position: absolute;
+    width: 446px;
+    height: 0px;
+    left: 52px;
+    top: 364px;
+
+    border: 1px solid 
+    #0C4A6E
+    ;
+}
+#first{
+    position: absolute;
+    width: 211px;
+    height: 39px;
+    left: 52px;
+    top: 391px;
+
+    background: #273549;
+    border-radius: 6px;
+
+    position: absolute;
+    width: 180px;
+    height: 32px;
+    left: 67px;
+    top: 395px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 32px;
+
+
+    text-align: center;
+
+    color: #7DD3FC;
+
+}
+#second{
+    position: absolute;
+    width: 211px;
+    height: 39px;
+    left: 287px;
+    top: 391px;
+    
+    background: #273549;
+    border-radius: 6px;
+   
+    position: absolute;
+    width: 192px;
+    height: 32px;
+    left: 297px;
+    top: 395px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 32px;
+
+    text-align: center;
+    color: #7DD3FC;
+}
+#third{
+    position: absolute;
+    width: 211px;
+    height: 39px;
+    left: 52px;
+    top: 457px;
+    
+    background: #273549;
+    border-radius: 6px;
+
+    position: absolute;
+    width: 180px;
+    height: 32px;
+    left: 67px;
+    top: 461px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 32px;
+    
+    text-align: center;
+    color: #7DD3FC;
+}
+
+#fourth{
+    position: absolute;
+    width: 211px;
+    height: 39px;
+    left: 287px;
+    top: 457px;
+    
+    background: #273549;
+    border-radius: 6px;
+
+    position: absolute;
+    width: 192px;
+    height: 32px;
+    left: 297px;
+    top: 461px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 32px;
+   
+
+    text-align: center;
+    color: #7DD3FC;
+
+
+}
